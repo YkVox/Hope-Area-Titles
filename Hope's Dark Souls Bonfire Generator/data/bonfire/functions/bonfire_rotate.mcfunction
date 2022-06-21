@@ -1,0 +1,1 @@
+execute at @e[tag=bonfire,sort=nearest,limit=1] run tp @e[tag=bonfire,sort=nearest,limit=1] ~ ~ ~ ~90 ~
